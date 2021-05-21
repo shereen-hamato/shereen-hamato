@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shereen-hamato
-- 👀 I’m interested in CoDiNg, ReAdInG, TrAvIlInG
+- 👀 I’m interested in CoDiNg, ReAdInG, and TrAvIlInG
 - 🌱 I’m currently learning AI , Machine learning  
 - 💞️ I’m looking to collaborate on any Java, C++, python project
 - 📫 How to reach me: https://www.linkedin.com/in/shereen-hamato/
